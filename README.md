@@ -1,6 +1,6 @@
 # Loan-Prediction
 <p align="center">
-  <img src="https://github.com/nguneonard/Loan-Prediction/blob/main/loan.png" width="350" title="hover text">
+  <img src="https://github.com/nguneonard/Loan-Prediction/blob/main/loan.png"  title="hover text">
 </p>
 
 
